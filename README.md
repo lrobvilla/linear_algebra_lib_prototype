@@ -8,7 +8,7 @@ The idea of this code was to provide an easy way to operate with matrices in C++
 
 There are several modifications that must still be undertaken to make this an actual functional C++ library, to name a few:
 
-- Fixing the "rigidity" of the structs that serve as containers for matrices. This can probably be done by the use of dynamimc vectors instead of arrays of doubles.
+- Fixing the "rigidity" of the structs that serve as containers for matrices. This can probably be done by the use of dynamic vectors instead of arrays of doubles.
 
 - Adding a function to calculate the determinant of matrices.
 
